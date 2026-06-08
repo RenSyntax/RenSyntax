@@ -8,11 +8,11 @@
 
 ---
 
-## 🛠️ About Me
+## 💡 About Me
 
 An engineering fresher focused on grasping core computer science fundamentals and improving step-by-step. Currently diving deep into Data Structures, Algorithms, and clean problem-solving.
 
-### 🧰 Tech Stack
+### ⚡ Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35" style="margin-right: 10px;"/>
@@ -40,7 +40,7 @@ _**The Vibe**_ — Late nights are mostly for random thoughts and emotional stor
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/RenSyntax) • [LeetCode](https://leetcode.com/u/RenSyntax) • [Dev.to](https://dev.to/rensyntax) • [Twitter/X](https://x.com/RenSyntax) • [Reddit](https://reddit.com/user/RenSyntax) • [Instagram](https://instagram.com/rensyntax.dev) * [Discord Chat](https://discord.gg/7nug5wGZ8)
+[LinkedIn](https://linkedin.com/in/RenSyntax) • [LeetCode](https://leetcode.com/u/RenSyntax) • [Dev.to](https://dev.to/rensyntax) • [Twitter/X](https://x.com/RenSyntax) • [Reddit](https://reddit.com/user/RenSyntax) • [Instagram](https://instagram.com/rensyntax.dev) • [Discord Chat](https://discord.gg/7nug5wGZ8)
 
 </div>
 
