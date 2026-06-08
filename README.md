@@ -25,6 +25,7 @@ An engineering fresher focused on grasping core computer science fundamentals an
 > *"Logic without heart is hollow; heart without logic is chaos."*
 
 ---
+
 ## 🎵 On Rotation
 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g4sfabv5zd6hlmbakedovbyhhe&count=1&width=400" align="left" alt="Recent Track" style="margin-right: 15px;" />
@@ -42,5 +43,7 @@ _**The Vibe**_ — Late nights are mostly for random thoughts and emotional stor
 [LinkedIn](https://linkedin.com/in/RenSyntax) • [LeetCode](https://leetcode.com/u/RenSyntax) • [Dev.to](https://dev.to/rensyntax) • [Twitter/X](https://x.com/RenSyntax) • [Reddit](https://reddit.com/user/RenSyntax) • [Instagram](https://instagram.com/rensyntax.dev) * [Discord Chat](https://discord.gg/7nug5wGZ8)
 
 </div>
+
 ---
-_*Thanks for reading, hope you have a nice day ahead! 👋*_
+
+_Thanks for reading, hope you have a nice day ahead! 👋_
