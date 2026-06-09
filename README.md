@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=EAE6D8&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I+am+RenSyntax+%E6%81%8B.;%F0%9F%8C%B3+Learning+Daily." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=EAE6D8&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I+am+RenSyntax+%E6%81%8B.;%F0%9F%8D%80+Learning+Daily." alt="Typing animation" />
 </div>
 
 <div align="center">
