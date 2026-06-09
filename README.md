@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-An engineering fresher focused on grasping core computer science fundamentals and improving step-by-step. Currently diving deep into Data Structures, Algorithms, and clean problem-solving.
+An engineering fresher focused on grasping core computer science fundamentals and improving step-by-step. Currently diving into Data Structures, Algorithms, and clean problem-solving.
 
 ### ⚡ Tech Stack
 <p align="left">
