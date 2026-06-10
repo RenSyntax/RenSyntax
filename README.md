@@ -15,10 +15,13 @@ An engineering fresher focused on learning computer science fundamentals and imp
 ### ⚡ Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/DSA-Problem%20Solving-00599C?style=flat&logo=computercoding&logoColor=white" alt="DSA" height="35"/>
 </p>
+
+### ⏳ Currently Exploring / Next Up
+- Object-Oriented Design Patterns
+- Basic Systems Programming / Memory Management
 
 ---
 
@@ -28,11 +31,9 @@ An engineering fresher focused on learning computer science fundamentals and imp
 
 ## 🎵 Listening To
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31g4sfabv5zd6hlmbakedovbyhhe&count=1&width=400" align="left" alt="Recent Track" style="margin-right: 15px;" />
-
-_**The Vibe**_ — Late nights are mostly for random thoughts and emotional storytelling from artists like Alec Benjamin. During day, listens to positive vibes, by J-Pop and Japanese melodies from Fujii Kaze, Yuika, and HACHI.
-
-<br clear="left"/>
+| Currently Playing | The Vibe |
+| --- | --- |
+| <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g4sfabv5zd6hlmbakedovbyhhe&count=1&width=350" alt="Recent Track" /> | Late nights are for emotional storytelling (Alec Benjamin). Days are for upbeat J-Pop and Japanese melodies (Fujii Kaze, Yuika, HACHI). |
 
 ---
 
