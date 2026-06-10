@@ -31,9 +31,13 @@ An engineering fresher focused on learning computer science fundamentals and imp
 
 ## 🎵 Listening To
 
-| Currently Playing | The Vibe |
-| :---: | --- |
-| <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g4sfabv5zd6hlmbakedovbyhhe&count=1&width=350" width="350" alt="Recent Track" /> | Late nights are for emotional storytelling (Alec Benjamin). Days are for upbeat J-Pop and Japanese melodies (Fujii Kaze, Yuika, HACHI). |
+## 🎵 Listening To
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g4sfabv5zd6hlmbakedovbyhhe&count=1&width=400" alt="Recent Track" />
+</p>
+
+> **The Vibe** — Late nights are mostly for random thoughts and emotional storytelling from artists like Alec Benjamin. During the day, it's positive vibes with J-Pop and Japanese melodies from Fujii Kaze, Yuika, and HACHI.
 
 ---
 
