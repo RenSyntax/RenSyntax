@@ -20,8 +20,8 @@ An engineering fresher focused on learning computer science fundamentals and imp
 </p>
 
 ### ⏳ Currently Exploring / Next Up
-- Object-Oriented Design Patterns
-- Basic Systems Programming / Memory Management
+- Standard Templete Library
+- Core DSA concepts
 
 ---
 
