@@ -15,6 +15,7 @@ Hey, I am `mahesh`, an engineering `fresher` focused on learning **computer scie
 > **Visit:** [cpp-dsa-mastery](https://github.com/RenSyntax/cpp-dsa-mastery) to check out my learning journey.
 
 ### 🛠️ Tech Stack
+
 <p align="left">
   <table>
     <tr>
