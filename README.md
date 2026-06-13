@@ -10,41 +10,77 @@
 
 ## 💡 About Me
 
-An engineering fresher focused on learning computer science fundamentals and improving step-by-step. Currently diving into Data Structures, Algorithms, and clean problem-solving.
+Hey, I am `mahesh`, an engineering `fresher` focused on learning **computer science fundamentals** and improving step-by-step. Currently diving into **data structures & algorithms**, documenting the journey publicly in [cpp-dsa-mastery](https://github.com/RenSyntax/cpp-dsa-mastery) — with a long-term goal of **200+** curated problems across core paradigms.
 
-### ⚡ Tech Stack
+> **Visit:** [cpp-dsa-mastery](https://github.com/RenSyntax/cpp-dsa-mastery) to check out my learning journey.
+
+### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-00599C?style=flat&logo=computercoding&logoColor=white" alt="DSA" height="35"/>
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <a href="https://github.com/RenSyntax/cpp-dsa-mastery">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+          <br />
+          <sub><b>C++</b></sub>
+        </a>
+      </td>
+      <td align="center" width="110">
+        <a href="https://github.com/RenSyntax/cpp-dsa-mastery">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+          <br />
+          <sub><b>Source Control</b></sub>
+        </a>
+      </td>
+      <td align="center" width="110">
+        <a href="https://leetcode.com/u/RenSyntax">
+          <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode"/>
+          <br />
+          <sub><b>LeetCode</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
-### ⏳ Currently Exploring / Next Up
-- Standard Templete Library
-- Core DSA concepts
+### ⏳ Learn in Future
 
----
+* Standard Template Library (`STL`)
 
-> *"Logic without heart is hollow; heart without logic is chaos."*
+* **Data Structures** — Linked Lists, Stacks, Queues, Trees & Graphs
+
+* **Algorithms** — Sorting & Searching, Recursion, Backtracking, Dynamic Programming
+
+* **Problem Solving** — consistent LeetCode practice across standard patterns
 
 ---
 
 ## 🎵 Listening To
 
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31g4sfabv5zd6hlmbakedovbyhhe&count=3)
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31g4sfabv5zd6hlmbakedovbyhhe&count=2)
 
-_**The Vibe**_ — Late nights are mostly for random thoughts and emotional storytelling from artists like Alec Benjamin. During the day, it's positive vibes with J-Pop and Japanese melodies from Fujii Kaze, Yuika, and HACHI.
+_**The Vibe**_ — Likes emotional storytelling when stuck with random thoughts, from artists like Alec Benjamin. But mostly vibes with j-pop when coding or just randomly having a good coffee time ☕️, from artists like Fujii Kaze, Yuika, HACHI, and more...
+
+> **Check out my Spotify:** [Spotify](https://open.spotify.com/user/31g4sfabv5zd6hlmbakedovbyhhe) — Additionally, join my **Discord** server for **casual chat** ☕️: [Discord](https://discord.gg/7nug5wGZ), Handle: `@RenSyntax`.
 
 ---
 
-## ☕ Find Me on
+> *"**Logic** without **heart** is `hollow`; **heart** without **logic** is `chaos`."*
+
+A life's philosophy trying to live by, still slip off track sometimes, but improving.
+
+---
+
+## 🔎 Find Me On
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/RenSyntax) • [LeetCode](https://leetcode.com/u/RenSyntax) • [Dev.to](https://dev.to/rensyntax) • [Twitter/X](https://x.com/RenSyntax) • [Reddit](https://reddit.com/user/RenSyntax) • [Instagram](https://instagram.com/rensyntax.dev) • [Discord Chat](https://discord.gg/7nug5wGZ8)
+[LinkedIn](https://linkedin.com/in/RenSyntax) • [LeetCode](https://leetcode.com/u/RenSyntax) • [Dev.to](https://dev.to/rensyntax) • [Twitter/X](https://x.com/RenSyntax) • [Instagram](https://instagram.com/rensyntax.dev)
 
 </div>
 
 ---
 
 _Thanks for reading, hope you have a nice day ahead! 👋_
+
+-- `RenSyntax`
