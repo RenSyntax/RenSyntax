@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=EAE6D8&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I+am+RenSyntax+%E6%81%8B.;%F0%9F%8D%80+Learning+Daily." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=EAE6D8&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I+am+RenSyntax+%E6%81%8B.;%F0%9F%8D%80+learning+daily...." alt="Typing animation" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-Hey, I am `mahesh`, an engineering `fresher` focused on learning **computer science fundamentals** and improving step-by-step. Currently diving into **data structures & algorithms**, documenting the journey publicly in [cpp-dsa-mastery](https://github.com/RenSyntax/cpp-dsa-mastery) — with a long-term goal of **200+** curated problems across core paradigms.
+Hey, I am `mahesh`, an engineering `freshman` focused on learning **computer science fundamentals** and improving step-by-step. Currently diving into **data structures & algorithms**, documenting the journey publicly in `cpp-dsa-mastery` — with a long-term goal of **200+** curated problems across core paradigms.
 
 > **Visit:** [cpp-dsa-mastery](https://github.com/RenSyntax/cpp-dsa-mastery) to check out my learning journey.
 
@@ -46,7 +46,7 @@ Hey, I am `mahesh`, an engineering `fresher` focused on learning **computer scie
 
 ### ⏳ Learn in Future
 
-* Standard Template Library (`STL`)
+* **Cpp** - Standard Template Library (`STL`)
 
 * **Data Structures** — Linked Lists, Stacks, Queues, Trees & Graphs
 
@@ -68,7 +68,7 @@ _**The Vibe**_ — Likes emotional storytelling when stuck with random thoughts,
 
 > *"**Logic** without **heart** is `hollow`; **heart** without **logic** is `chaos`."*
 
-A life's philosophy trying to live by, still slip off track sometimes, but improving.
+`A life's philosophy trying to live by, still slip off track sometimes, but improving.`
 
 ---
 
