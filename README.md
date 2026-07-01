@@ -47,7 +47,7 @@ Hey, I am `mahesh`, an engineering `freshman` focused on learning **computer sci
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=RenSyntax&show_icons=true&theme=rose_pine_dawn&bg_color=fcfbfa&title_color=286983&text_color=575279&icon_color=d7827e&border_color=f2e9e1&hide_border=false" alt="RenSyntax's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenSyntax&theme=solarized_light" alt="RenSyntax's GitHub Stats" />
 </div>
 
 ### ⏳ Learn in Future
