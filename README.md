@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-Hey, I am `mahesh`, an engineering `freshman` focused on learning **computer science fundamentals** and improving step-by-step. Currently diving into **data structures & algorithms**, documenting the journey publicly in `cpp-dsa-mastery` — with a long-term goal of **200+** curated problems across core paradigms.
+Hey, I am `mahesh`, an engineering `freshman` focused on learning **computer science fundamentals** and improving step-by-step. Currently diving into **data structures & algorithms**, documenting the journey publicly in `cpp-dsa-mastery`.
 
 > **Visit:** [cpp-dsa-mastery](https://github.com/RenSyntax/cpp-dsa-mastery) to check out my learning journey.
 
