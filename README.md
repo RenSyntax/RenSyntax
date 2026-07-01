@@ -44,12 +44,6 @@ Hey, I am `mahesh`, an engineering `freshman` focused on learning **computer sci
   </table>
 </p>
 
-### 🏆 My GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RenSyntax&theme=flat&margin-w=15&margin-h=15&no-bg=true" alt="RenSyntax's Trophies" />
-</div>
-
 ### ⏳ Learn in Future
 
 * **Cpp** - Standard Template Library (`STL`)
