@@ -44,16 +44,6 @@ Hey, I am `mahesh`, an engineering `freshman` focused on learning **computer sci
   </table>
 </p>
 
-### ⏳ Learn in Future
-
-* **Cpp** - Standard Template Library (`STL`)
-
-* **Data Structures** — Linked Lists, Stacks, Queues, Trees & Graphs
-
-* **Algorithms** — Sorting & Searching, Recursion, Backtracking, Dynamic Programming
-
-* **Problem Solving** — consistent LeetCode practice across standard patterns
-
 ---
 
 ## 🎵 Listening To
@@ -63,12 +53,6 @@ Hey, I am `mahesh`, an engineering `freshman` focused on learning **computer sci
 _**The Vibe**_ — Likes emotional storytelling when stuck with random thoughts, from artists like Alec Benjamin. But mostly vibes with j-pop when coding or just randomly having a good coffee time ☕️, from artists like Fujii Kaze, Yuika, HACHI, and more...
 
 > **Check out my Spotify:** [Spotify](https://open.spotify.com/user/31g4sfabv5zd6hlmbakedovbyhhe) — Additionally, join my **Discord** server for **casual chat** ☕️: [Discord](https://discord.gg/7nug5wGZ), Handle: `@RenSyntax`.
-
----
-
-> *"**Logic** without **heart** is `hollow`; **heart** without **logic** is `chaos`."*
-
-`A life's philosophy trying to live by, still slip off track sometimes, but improving.`
 
 ---
 
