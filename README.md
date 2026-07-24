@@ -56,6 +56,8 @@ Hey, I'm `Mahesh`, an engineering `freshman`. Learning and improving step-by-ste
     <img src="https://img.shields.io/badge/psychology-%23121011.svg?style=for-the-badge&logo=headspace&logoColor=A078F0" alt="Psychology"/>
   </a>
 </p>
+
+> Hit me up on **Discord** to chat or drop some feedback! Find me at **`@RenSyntax` 💬✨**
   
 ---
 
